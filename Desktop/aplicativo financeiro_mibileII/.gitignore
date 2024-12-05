@@ -45,3 +45,13 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+
+*.DS_Store
+*.zip
+.android/
+.gradle/
+.flutter/
+.dart-tool/
+.cocoapods/
+.idea/
+.vscode/
